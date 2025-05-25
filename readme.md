@@ -1,0 +1,1 @@
+The idea is to create a pipeline a python script is executed to generate an html report, and it is published in github page.
